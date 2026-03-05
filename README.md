@@ -1,9 +1,5 @@
 <img src="banner.jpeg" alt="GitHub banner" width="100%" />
 
-# ✨ About Me:
-Hi! I'm Adeliya — a Computer Science student at the University of South Florida, currently exploring the world of software quality assurance, clean code, and technical leadership<br><br>🔮 I'm especially interested in:<br>• Manual and automated testing<br>• QA mindset with management vision<br>• Improving software through QA processes<br><br>🧪 Right now, I'm:<br>• Expanding my QA skills by testing open-source projects<br>• Building responsive websites with attention to detail<br>• Chasing discoveries 🐞<br><br>
-
-
 ## 🎆 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adeliya-tislova/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tislova@usf.edu) 
 
